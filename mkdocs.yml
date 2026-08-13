@@ -1,6 +1,6 @@
 # Informations du site
-site_name: Cours de Terminale NSI
-site_url: https://sliaboeuf.github.io/Mon_site_en_Terminale_NSI/
+site_name: Cours de Première NSI
+site_url: https://sliaboeuf.github.io/Mon_site_en_Premiere_NSI/
 site_author : Sylvain Liaboeuf
 copyright : Copyright © 2020 - 2027 Sylvain Liaboeuf
 
@@ -93,7 +93,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Mode clair
-  favicon : images/Logo.png
+  favicon: images/Logo.png
   features:
     #- header.autohide
     #- search.highlight
@@ -103,7 +103,7 @@ theme:
     - navigation.tabs
     #- navigation.expand
     - toc.integrate
-    - tabs : false
+    - tabs: false
     - content.code.copy
     - content.code.select
     - content.code.annotate
@@ -145,7 +145,7 @@ plugins:
 
 nav:
     -  🏡 Page d'accueil : index.md    
-    -  "📦 T1 : Bases de données" :
+    -  "📦 T1 : Bases de Python" :
         -  Sommaire : cours/T1_bases_de_donnees/sommaire.md
         -  ❶ Modèle relationnel :
             -  Cours : cours/T1_bases_de_donnees/Les_bases_de_donnees/Les_bases_de_données.md
